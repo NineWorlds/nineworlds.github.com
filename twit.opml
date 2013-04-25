@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="1.0">
+	<head>
+		<title>TWiT.tv</title>
+		<dateCreated>Thu, 25 Apr 2013 23:35:52 GMT</dateCreated>
+		<dateModified>Thu, 25 Apr 2013 23:35:52 GMT</dateModified>
+		<ownerName>nineworlds</ownerName>
+		<ownerEmail>nineworlds.serenity@gmail.com</ownerEmail>
+	</head>
+<body>
+	<outline text="TWiT.tv">
+		<outline text="Tech News Today"  type="link" url="http://feeds.twit.tv/tnt_video_hd"/>
+		<outline text="This Week in Tech"  type="link" url="http://feeds.twit.tv/twit_video_hd"/>
+		<outline text="The Tech Guy"  type="link" url="http://feeds.twit.tv/ttg_video_hd"/>
+		<outline text="All About Android"  type="link" url="http://feeds.twit.tv/aaa_video_hd"/>
+		<outline text="MacBreak Weekly"  type="link" url="http://feeds.twit.tv/mbw_video_hd"/>
+		<outline text="This Week in Google"  type="link" url="http://feeds.twit.tv/twig_video_hd"/>
+		<outline text="OMGcraft"  type="link" url="http://feeds.twit.tv/omgcraft_video_hd"/>
+		<outline text="iPad"  type="link" url="http://feeds.twit.tv/ipad_video_hd"/>
+		<outline text="Before You Buy"  type="link" url="http://feeds.twit.tv/byb_video_hd"/>
+		<outline text="Floss Weekly"  type="link" url="http://feeds.twit.tv/flossw_video_hd"/>
+		<outline text="This Week in Law"  type="link" url="http://feeds.twit.tv/twil_video_hd"/>
+		<outline text="This Week in Enterprise Tech"  type="link" url="http://feeds.twit.tv/twiet_video_hd"/>
+		<outline text="The Social Hour"  type="link" url="http://feeds.twit.tv/tsh_video_hd"/>
+		<outline text="Home Theater Geeks"  type="link" url="http://feeds.twit.tv/htg_video_hd"/>
+	</outline>
+</body>
+</opml>
